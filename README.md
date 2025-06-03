@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Recife de Memórias**
 
-- 🌱 I’m currently learning **Python/JavaScrip/CSS/HTML**
+- 🌱 I’m learning **Python/JavaScrip/CSS/HTML**
 
 - 📫 How to reach me **marinacabralima@gmail.com**
 
